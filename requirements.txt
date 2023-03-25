@@ -1,1 +1,9 @@
 pymongo
+tensorflow
+matplotlib
+numpy
+seaborn
+pandas
+sklearn
+scikit-learn
+keras-tuner == 1.3.0
