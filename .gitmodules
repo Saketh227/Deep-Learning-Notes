@@ -1,0 +1,3 @@
+[submodule "My"]
+	path = My
+	url = https://github.com/Saketh227/Deep-Learning-Notes.git
